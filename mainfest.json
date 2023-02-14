@@ -1,0 +1,35 @@
+{
+    "name": "tic-tac",
+    "short_name": "XnO",
+    "start_url": "/tic-tack",
+    "background_color": "red",
+    "theme_color": "coral",
+    "display": "standalone",
+    "discription": "Best Game Ever Created By Me",
+    "icons": [
+        {
+            "src": "Assets/images/Icon-48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "Assets/images/Icon-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "Assets/images/Icon-96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "Assets/images/Icon-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "Assets/images/Icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "Assets/images/Icon-512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
